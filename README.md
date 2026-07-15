@@ -70,7 +70,3 @@ This project helps in understanding:
 
 **Journal Manager** is a practical mini-project that demonstrates how Python can be used to build simple yet useful real-world applications. It combines essential programming concepts with an intuitive user experience, making it an excellent project for beginners to strengthen their Python skills while creating something meaningful and functional.
 
-> 🌟 *"Every great memory deserves to be written. Start your journaling journey today!"* 📔✨
-```
-
-This is the kind of README commonly seen in **5k–10k⭐ GitHub repositories**—clean, professional, well-structured, and visually appealing without excessive emojis.
